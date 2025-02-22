@@ -89,3 +89,13 @@ Acknowledgments
 
 	•	Inspired by Tesla’s vision for autonomous driving and Elon Musk’s leadership.
 	•	Built using open-source tools (Python, OpenCV, scikit-image) and real-world data from OpenWeatherMap.
+
+## Video Output
+
+The `outputs/ir_detection.mp4` file demonstrates the FSD WeatherSync simulation. You can view it directly in this repository or generate it locally by running the simulation. Click [here](outputs/ir_detection.mp4) to watch the 
+video.
+
+## Screenshots
+
+![FSD WeatherSync Video Frame (Problem vs Solution)](screenshots/video_frame.png)
+![Accuracy Plot](outputs/accuracy_plot.png)
