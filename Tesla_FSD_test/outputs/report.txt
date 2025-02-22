@@ -1,0 +1,11 @@
+FSD WeatherSync Simulation (Adam's Project)
+Date: 2025-02-22 04:09:00
+Weather: Fog, Visibility: 0.5 km, Temp: 2°C
+
+Problem (Current FSD):
+Accuracy: 17.4% - Struggles in fog.
+Decision: Disengage FSD
+
+Solution (WeatherSync with IR):
+Accuracy: 77.6% - Reliable with IR.
+Decision: Slow to 20 mph, use IR
